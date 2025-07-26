@@ -13,3 +13,8 @@ My insparation to make this was for a friend who loves to play friday night funk
 
 # PICTURES
   
+<img width="566" height="298" alt="Image" src="https://github.com/user-attachments/assets/3f73fe8f-604f-4d27-a25c-0cfe21bf9090" />
+
+<img width="354" height="730" alt="Image" src="https://github.com/user-attachments/assets/23b5bef8-253a-4419-bb75-1fa11976b3cb" />
+
+<img width="1116" height="740" alt="Image" src="https://github.com/user-attachments/assets/10d2c5d9-22b8-4985-96a3-6752c143daab" />
